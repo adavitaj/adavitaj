@@ -170,8 +170,30 @@ _C_
 </details>
 
 ___
+#### Courses ⋆ ˚｡
 
+╰┈➤  Data Structures
 
+╰┈➤  Systems Programming
+
+╰┈➤  Algorithms and Complexity
+
+╰┈➤  Algorithm Design
+
+╰┈➤  Computer Organization
+
+╰┈➤  Artificial Intelligence
+
+╰┈➤  Software Engineering
+
+╰┈➤  Web Development
+
+╰┈➤  Networking Concepts
+
+╰┈➤  Distributed Systems
+
+╰┈➤  Systems Administration
+#
 
 <!--
 **adavitaj/adavitaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

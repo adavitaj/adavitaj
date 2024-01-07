@@ -11,7 +11,6 @@ ___
 <br/>
 
 #
-
 #### Libraries
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
@@ -20,15 +19,12 @@ ___
 <br/>
 
 #
-
 #### Frameworks
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" />
 <br/>
 
 #
-
-
 #### Tools
 <img align="left" alt="Github" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" />
 <img align="left" alt="Gitlab" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
@@ -40,11 +36,17 @@ ___
 
 #
 #### Editors
-
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Emacs" width="40px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/emacs-icon.png" />
 <img align="left" alt="Pycharm" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<br/>
+
+#
+#### Operating Systems
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="MacOS" width="40px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/mac-icon/apple-mac-icon-5.png" />
+<img align="left" alt="Unix" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 <br/>
 
 #

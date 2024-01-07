@@ -51,11 +51,13 @@ ___
 
 #
 ___
-### Experiance
+#### Experiance
 <img align="left" alt="ORNL" width="125px" style="padding-right:10px;" src="https://gsmit.org/wp-content/uploads/2022/12/ORNL-logo.png" />
 <p><b>Software Application Engineer Intern</b></p>
 <p><i>Oak Ridge National Laboratory (ORNL) – US Department of Energy | Summer 2023</i></p>
 
+#
+<img align="left" alt="ORNL" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Buffalo_Bulls_logo.svg/1280px-Buffalo_Bulls_logo.svg.png" />
 
 <!--
 **adavitaj/adavitaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

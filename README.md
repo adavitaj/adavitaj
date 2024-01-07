@@ -12,19 +12,33 @@ ___
 
 #
 
-#### Frameworks
-<p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" width="30" title="Django">
-  <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" width="30" title="Flask" hspace=20>
-</p>
-
-#
-
 #### Libraries
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<br/>
+
+#
+
+#### Frameworks
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" />
+<br/>
+
+#
+
+
+#### Tools
+<img align="left" alt="Github" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" />
+<img align="left" alt="Gitlab" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+<img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+#
+
 
 
 

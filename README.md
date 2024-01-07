@@ -139,6 +139,18 @@ _Go_
 </details>
 
 <details>
+  <summary>Networking Concepts</summary>
+  <br/>
+
+  **Text Chat Application**
+
+  _C++_
+
+- Developed the client and server side components of a text chat application that behaves as a UNIX shell, consisting of one chat server and multiple chat clients over TCP connections.
+#
+</details>
+
+<details>
   <summary>Systems Programming</summary>
   <br/>
 

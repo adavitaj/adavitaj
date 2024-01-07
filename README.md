@@ -51,7 +51,7 @@ ___
 
 #
 ___
-#### Experiance
+#### Experiance 𖥔 ݁ ˖
 <img align="left" alt="ORNL" width="125px" style="padding-right:10px;" src="https://gsmit.org/wp-content/uploads/2022/12/ORNL-logo.png" />
 <p><b>Software Application Engineer Intern</b></p>
 <p><i>Oak Ridge National Laboratory (ORNL) – US Department of Energy | Summer 2023</i></p>
@@ -62,7 +62,7 @@ ___
 <p><i>University at Buffalo, The State University of New York | August 2022 - Present</i></p>
 
 ___
-#### Projects
+#### Projects ⊹ ࣪ ˖
 
 <details>
   <summary>Software Development</summary>
@@ -169,6 +169,7 @@ _C_
 #
 </details>
 
+___
 
 
 

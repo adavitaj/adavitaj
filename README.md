@@ -62,6 +62,102 @@ ___
 <p><i>University at Buffalo, The State University of New York | August 2022 - Present</i></p>
 
 ___
+#### Projects
+
+<details>
+  <summary>Software Development</summary>
+  <br/>
+  
+  **Live Chat Application**
+  
+  _Python, JavaScript, MongoDB_
+  
+- Created a full-stack web application from scratch without the use of a pre-existing web server or web framework.
+- Developed an authenticated chat server by parsing byte-level WebSocket frames to transmit messages across connected clients in real time. 
+- Leveraged knowledge of HTTP, APIs, AJAX, databases, encryption, authentication, sockets, and security within this project.
+
+#
+**Campus Guide Mobile Application**
+
+_React Native and JavaScript_
+
+- Developed a mobile application compatible with Android and iOS which includes 10 features to help students navigate their college campus such as an interactive map which provides directions for students from any two buildings while utilizing the tunnel system at the university. 
+- Completed under Agile Development using Scrum methodology.
+
+#
+**Battleship Game Website**
+
+_Python, JavaScript, Flask_
+
+- Developed a clone of the game Battleship, where multiple users can interact with each other in lobbies and send invitations to play.
+- Constructed the backend components using the Flask framework, RESTful API and AJAX calls.
+- Deployed using knowledge of Docker and Nginx.
+#
+
+</details>
+
+
+<details>
+  <summary>Artificial Intelligence</summary>
+  <br/>
+
+  **Machine Learning Flight Price Predictor**
+
+  _Python and PyTorch_
+
+- Trained a neural network model to predict the prices of flights and provide a user with the cheapest flight option based on their requirements.
+- Developed using knowledge of pandas, matplotlib, skit-learn, and machine learning.
+#
+
+**Reinforcement Learning Gridworld**
+
+_Python_
+
+- Defined a NumPy environment grid with an agent, reward and obstacle states, and a goal state.
+- Implemented SARSA and Q-learning algorithms to train the agent to find the optimal path towards the goal state.
+- Used knowledge of matplotlib to create graphs to visualize the progression of total reward learned per episode.
+#
+</details>
+
+<details>
+  <summary>Distributed Systems</summary>
+  <br/>
+
+  **Kademlia Distributed Routing Table**
+
+  _Go_
+
+- Implemented a concurrent-safe hash table structure, Kademlia, and its API which utilizes knowledge of distributed data structures, communication patterns, peer-to-peer architecture and cryptographic primitives to efficiently use TCP communication amongst nodes.
+#
+
+**Raft Distributed Consensus**
+
+_Go_
+
+- Developed a simplified and concurrent-safe instance of the Raft consensus algorithm that is able to manage consensus among a cluster of distributed servers.
+# 
+</details>
+
+<details>
+  <summary>Systems Programming</summary>
+  <br/>
+
+  **Dynamic Memory Allocator**
+
+  _C_
+
+- Implemented a dynamic memory allocator that replaces malloc, calloc, realloc and free for heap memory in a Unix process.
+- Developed efficiently using multipool allocation for allocation sizes up to 4096 bytes and sbrk for larger allocations.
+#
+
+**Producer-Consumer Queue**
+
+_C_
+- Created a semaphore using POSIX mutexes and condition variables, and used it to implement a FIFO producer-consumer queue data structure for passing data between threads. 
+#
+</details>
+
+
 
 
 <!--
